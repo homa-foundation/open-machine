@@ -12,7 +12,7 @@
 
 <h4>Type-C and Type-C/DP bridges</h4>
 <a href="http://www.lontiumsemi.com/product/list_1873.html"> / Lontium Semiconductor</a>
---  <a href="https://github.com/digi-embedded/linux/blob/v4.14/dey-2.6/maint/drivers/gpu/drm/bridge/lt8912.c">linux driver related</a>
+***  <a href="https://github.com/digi-embedded/linux/blob/v4.14/dey-2.6/maint/drivers/gpu/drm/bridge/lt8912.c">linux driver related</a>
 
 
 <table>
