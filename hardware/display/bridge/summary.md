@@ -1,13 +1,17 @@
 <h4>MIPI-LVDS bridges</h4>
-<a href="https://www.ti.com/product/SN65DSI83-Q1">SN65DSI83-Q1</a>
+<a href="https://www.ti.com/product/SN65DSI83-Q1">SN65DSI83-Q1 / Texas Instruments</a>
 
 
 <h4>MIPI-eDP bridges</h4>
-<a href="https://www.ti.com/product/SN65DSI86-Q1">SN65DSI86-Q1</a>
+<a href="https://www.ti.com/product/SN65DSI86-Q1">SN65DSI86-Q1 / Texas Instruments</a>
+
+
+<h4>MIPI-HDMI bridges</h4>
+<a href="http://www.lontiumsemi.com/product/View_86.html">LT8912B / Lontium Semiconductor</a>
 
 
 <h4>Type-C and Type-C/DP bridges</h4>
-<a href="http://www.lontiumsemi.com/product/list_1873.html">lontium semi-conductors</a>
+<a href="http://www.lontiumsemi.com/product/list_1873.html"> / Lontium Semiconductor</a>
 
 
 <table>
