@@ -15,5 +15,8 @@
     <td>
       Qualcomm® Adreno™ 630 GPU<br>API Support: DirectX® 12, OpenGL® ES 3.2, Vulkan®
     </td>
+   <td>
+    <a href="https://anyconnect.com/recommended-soms/thundercomm/thundercomm-turbox-d660-d660pro-som">Thundercomm TurboX™ D660/D660Pro SOM</a>
+   </td>
   </tr>
 </table> 
