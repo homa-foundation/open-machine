@@ -4,6 +4,14 @@
   <b>8 x 16 Analog Switch Array with Low On-resistance.</b>
   Any one of the 128 switches can be addressed by selecting the appropriate seven address bits.
   Zarlink MT8816 is a cheap generic alternative.</i>
+  
+  
+<a href="">LMH6583 16x8 550 MHz Analog Crosspoint Switch, Gain of 2</a>  
+
+
+<a href="">Low-Cost 4x4, 8x4, 8x8 Video Crosspoint Switches</a>
+
+<a href="">Audio/Video CrossPoint Matrix Switch AD8113JSTZ, 16 x 16 Array 60MHz, LQFP 100-Pin</a>
 
 <h4>DIY projects:</h4>
 <a href="https://hackaday.io/project/166578-64-to-8-or-1-analog-digital-multiplexer-switch">
