@@ -1,5 +1,9 @@
 
 <h4></h4>
+
+<img src="https://www.analog.com/-/media/images/analog-dialogue/en/volume-31/number-2/articles/200-mhz-16316-video-crosspoint-switch-ic/200-fig-01.gif?la=en&imgver=1">
+
+
 <a href="https://www.microsemi.com/product-directory/analog-cross-point-switches/4920-mt8816">MT8816</a>
   <b>8 x 16 Analog Switch Array with Low On-resistance.</b>
   Any one of the 128 switches can be addressed by selecting the appropriate seven address bits.
@@ -19,6 +23,9 @@
 
 <a href="https://caes.com/sites/default/files/documents/Datasheet-ACT8500-Analog-Multiplexer.pdf">
   ACT8500 64-Channel Analog Multiplexer Module Radiation Tolerant & ESD Protected</a>
+  
+<a href="https://www.analog.com/media/en/technical-documentation/data-sheets/adv3200_adv3201.pdf">
+  ADV3200/ADV320 300 MHz, 32 × 32 Buffered Analog Crosspoint Switch</a> 
 
 <h4>DIY projects:</h4>
 <a href="https://hackaday.io/project/166578-64-to-8-or-1-analog-digital-multiplexer-switch">
