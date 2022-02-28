@@ -17,6 +17,9 @@
 
 <a href="">AD8116 200-MHz 16 x 16 Video Crosspoint Switch IC</a>
 
+<a href="https://caes.com/sites/default/files/documents/Datasheet-ACT8500-Analog-Multiplexer.pdf">
+  ACT8500 64-Channel Analog Multiplexer Module Radiation Tolerant & ESD Protected</a>
+
 <h4>DIY projects:</h4>
 <a href="https://hackaday.io/project/166578-64-to-8-or-1-analog-digital-multiplexer-switch">
   64 to 8 or 1 Analog Digital Multiplexer Switch</a> using 74HC4051D from NXP
