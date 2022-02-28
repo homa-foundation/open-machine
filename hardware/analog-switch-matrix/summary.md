@@ -14,7 +14,7 @@
 <a href="https://www.maximintegrated.com/en/products/interface/high-speed-signaling/MAX9390.html#order-quality">
   MAX9390 Dual, 2 x 2 Crosspoint Switches with Anything-to-LVDS Guarantee 1.50GHz Maximum Operating Frequency</a>  
   
-<a href="https://www.maximintegrated.com/en/products/interface/high-speed-signaling.html/tab1?fam=hs_int&node=5033&295=OR%7CDemultiplexer%7CMultiplexer%7CSwitch">
+<a href="https://www.maximintegrated.com/en/products/analog/analog-switches-multiplexers.html">
   MaximIntegrated / product list</a>  
   
   
