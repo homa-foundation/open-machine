@@ -1,0 +1,3 @@
+<center><img src="https://ae01.alicdn.com/kf/HTB1CFOBRXXXXXb8XFXXq6xXFXXXA.jpg?size=324217&height=1000&width=1000&hash=908f62251b5a45f54a604339c995bb63" /></center>
+
+<a href="https://mobileic.in/display-connector-2/">Smartphone display sockets/interfaces</a>
