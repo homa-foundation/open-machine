@@ -37,4 +37,18 @@
     </td>  
   </tr>
   
+  <tr>
+    <td>
+      synaptics DL-1x5
+    </td>  
+    <td>
+      Entry level USB adapters and displays
+    </td>
+    <td>
+      https://www.synaptics.com/products/displaylink-graphics/integrated-chipsets/dl-1x5
+    </td>  
+  </tr>
+  
+  
+  
 </table>
