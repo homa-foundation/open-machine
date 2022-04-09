@@ -24,4 +24,17 @@
       http://ww1.microchip.com/downloads/en/devicedoc/7000.pdf
     </td>  
   </tr>  
+  
+  <tr>
+    <td>
+      UFX6000
+    </td>  
+    <td>
+      USB 2.0 Hi-Speed Graphics Controller with VGA, HDMI/DVI, and Digital RGB Interfaces
+    </td>
+    <td>
+      https://datasheet.octopart.com/UFX6000-VE-Microchip-datasheet-13021111.pdf
+    </td>  
+  </tr>
+  
 </table>
